@@ -1,0 +1,1000 @@
+ 1011  pm2 logs
+ 1012  Redis
+ 1013  sudo ufw status
+ 1014  sudo ss -tuln | grep 6673
+ 1015  sudo ausearch -m avc -ts recent
+ 1016  sudo aa-status
+ 1017  sudo ss -tuln | grep 6379
+ 1018  pm2 restart 0
+ 1019  pm2 logs
+ 1020  sudo systemctl status redis
+ 1021  sudo systemctl start redis
+ 1022  sudo apt update
+ 1023  sudo apt install redis-server
+ 1024  sudo systemctl status redis-server
+ 1025  pm2 restart 0
+ 1026  pm2 logs
+ 1027  pm2 restart 0
+ 1028  pm2 logs
+ 1029  pm2 restart 0
+ 1030  pm2 logs
+ 1031  sudo apt-get purge redis-server
+ 1032  sudo apt-get autoremove
+ 1033  top
+ 1034  clear
+ 1035  ps -fp 3465970
+ 1036  top
+ 1037  python "UK" "professionals" "architectural glass design"
+ 1038  python3 "UK" "professionals" "architectural glass design"
+ 1039  python3 scraper.py "UK" "professionals" "architectural glass design"
+ 1040  clear
+ 1041  python3 scraper.py "UK" "professionals" "architectural glass design"
+ 1042  pm2 logs
+ 1043  pm2 clear
+ 1044  clear
+ 1045  pm2 restart 0
+ 1046  pm2 logs
+ 1047  clear
+ 1048  pm2 restart 0
+ 1049  pm2 logs
+ 1050  pm2 restart 0
+ 1051  pm2 logs
+ 1052  pm2 restart 0
+ 1053  pm2 logs
+ 1054  pm2 restart 0
+ 1055  pm2 logs
+ 1056  pm2 restart 0
+ 1057  pm2 logs
+ 1058  pm2 restart 0
+ 1059  pm2 logs
+ 1060  clear
+ 1061  pm2 restart 0
+ 1062  clear
+ 1063  pm2 logs
+ 1064  clear
+ 1065  pm2 restart 0
+ 1066  clear
+ 1067  pm2 logs
+ 1068  pm2 restart 0
+ 1069  pm2 logs
+ 1070  clear
+ 1071  pm2 restart 0
+ 1072  pm2 logs
+ 1073  pm2 restart 0
+ 1074  pm2 logs
+ 1075  pm2 restart 0
+ 1076  clear
+ 1077  pm2 logs
+ 1078  pm2 restart 0
+ 1079  CLEAR
+ 1080  clear
+ 1081  pm2 logs
+ 1082  pm2 restart 0
+ 1083  cd src
+ 1084  pm2 start index.js
+ 1085  systemctl restart nginx
+ 1086  sudo systemctl status nginx
+ 1087  sudo systemctl stop nginx
+ 1088  sudo systemctl start nginx
+ 1089  clear
+ 1090  pm2 logs
+ 1091  pm2 restart 0
+ 1092  pm2 logs
+ 1093  clear
+ 1094  pm2 restart 0
+ 1095  clear
+ 1096  pm2 logs
+ 1097  clear
+ 1098  pm2 restart 0
+ 1099  clear
+ 1100  pm2 restart 0
+ 1101  clear
+ 1102  pm2 logs
+ 1103  clear
+ 1104  pm2 restart 0
+ 1105  clear
+ 1106  pm2 logs
+ 1107  pm2 restart 0
+ 1108  clear
+ 1109  pm2 logs
+ 1110  clear
+ 1111  pm2 restart 0
+ 1112  clear
+ 1113  pm2 logs
+ 1114  clear
+ 1115  pm2 restart 0
+ 1116  clear
+ 1117  pm2 logs
+ 1118  clear
+ 1119  pm2 restart 0
+ 1120  pm2 logs
+ 1121  pm2 restart 0
+ 1122  clear
+ 1123  pm2 logs
+ 1124  cd ..
+ 1125  npm install php-serialize
+ 1126  pm2 restart 0
+ 1127  clear
+ 1128  pm2 restart 0
+ 1129  clear
+ 1130  pm2 logs
+ 1131  clear
+ 1132  pm2 restart 0
+ 1133  pm2 logs
+ 1134  clear
+ 1135  pm2 restart 0
+ 1136  clear
+ 1137  pm2 logs
+ 1138  pm2 restart 0
+ 1139  pm2 logs
+ 1140  clear
+ 1141  pm2 logs
+ 1142  pm2 stop 0
+ 1143  pm2 start 0
+ 1144  pm2 logs
+ 1145  pm2 restart 0
+ 1146  pm2 logs
+ 1147  clear
+ 1148  pm2 restart 0
+ 1149  pm2 stop 0
+ 1150  pm2 delete 0
+ 1151  pm2 restart 0
+ 1152  pm2 logs
+ 1153  clear
+ 1154  pm2 restart 0
+ 1155  pm2 logs
+ 1156  clear
+ 1157  pm2 restart 0
+ 1158  pm2 logs
+ 1159  lear
+ 1160  clear
+ 1161  pm2 restart 0
+ 1162  clear
+ 1163  pm2 logs
+ 1164  clear
+ 1165  pm2 restart 0
+ 1166  CLEAR
+ 1167  clear
+ 1168  pm2 restart 0
+ 1169  pm2 logs
+ 1170  CLEAR
+ 1171  clear
+ 1172  pm2 logs
+ 1173  clear
+ 1174  pm2 restart 0
+ 1175  pm2 logs
+ 1176  clear
+ 1177  pm2 restart 0
+ 1178  clear
+ 1179  pm2 logs
+ 1180  pm2 restart 0
+ 1181  clear
+ 1182  pm2 logs
+ 1183  clear
+ 1184  pm2 restart 0
+ 1185  clear
+ 1186  pm2 logs
+ 1187  clear
+ 1188  pm2 restart 0
+ 1189  clear
+ 1190  pm2 logs
+ 1191  clear
+ 1192  pm2 restart 0
+ 1193  clear
+ 1194  pm2 logs
+ 1195  CLEAR
+ 1196  clear
+ 1197  pm2 restart 0
+ 1198  clear
+ 1199  pm2 logs
+ 1200  clear
+ 1201  pm2 restart 0
+ 1202  clear
+ 1203  pm2 logs
+ 1204  clear
+ 1205  pm2 restart 0
+ 1206  clear
+ 1207  pm2 logs
+ 1208  clear
+ 1209  pm2 restart 0
+ 1210  clear
+ 1211  pm2 logs
+ 1212  clear
+ 1213  pm2 restart 0
+ 1214  clear
+ 1215  pm2 logs
+ 1216  clear
+ 1217  pm2 restart 0
+ 1218  clear
+ 1219  pm2 logs
+ 1220  clear
+ 1221  pm2 restart 0
+ 1222  pm2 logs
+ 1223  clear
+ 1224  pm2 restart 0
+ 1225  pm2 logs
+ 1226  clear
+ 1227  pm2 restart 0
+ 1228  crontab -e
+ 1229  pm2 restart 0
+ 1230  clear
+ 1231  pm2 restart 0
+ 1232  clear
+ 1233  pm2 logs
+ 1234  clear
+ 1235  pm2 restart 0
+ 1236  clear
+ 1237  pm2 restart 0
+ 1238  clear
+ 1239  pm2 restart 0
+ 1240  pm2 logs
+ 1241  clear
+ 1242  pm2 restart 0
+ 1243  pm2 logs
+ 1244  pm2 restart 0
+ 1245  pm2 logs
+ 1246  git add .
+ 1247  git add .
+ 1248  git commit -m "Backup"
+ 1249  git push origin master
+ 1250  python scrap-sections.py
+ 1251  python3 scrap-sections.py
+ 1252  pm2 restart 0
+ 1253  cache:clear
+ 1254  console cache:clear
+ 1255  ./console cache:clear
+ 1256  cd ..
+ 1257  cd..
+ 1258  cd ..
+ 1259  cd www
+ 1260  tail -f var/logs/prod.log
+ 1261  tail -f var/logs/prod-2025-02-06.log
+ 1262  tail -f var/logs/prod-2025-02-06.php
+ 1263  crontab -l
+ 1264  crontab
+ 1265  crontab -e
+ 1266  crontab -l
+ 1267  php -v
+ 1268  sudo systemctl restart php8.1-fpm
+ 1269  php bin/console cache:clear
+ 1270  cd bin
+ 1271  cd ..
+ 1272  cd bin
+ 1273  php ./console cache:clear
+ 1274  ./console cache:clear
+ 1275  ls
+ 1276  cd ..
+ 1277  cd var
+ 1278  cd www
+ 1279  cd bin
+ 1280  php ./console cache:clear
+ 1281  php ./console cache:warmup
+ 1282  systemctl restart nginx php8.1-fpm mysql
+ 1283  crontab -l | grep mautic | while read cmd; do $cmd; done
+ 1284  sudo nano /etc/php/8.1/fpm/php.ini
+ 1285  sudo systemctl restart php8.1-fpm
+ 1286  free -m
+ 1287  sudo fallocate -l 2G /swapfile
+ 1288  sudo tail -f /var/log/php8.1-fpm.log
+ 1289  sudo chmod -R 775 /var/www/var/cache/
+ 1290  sudo chmod -R 777 /var/www/var/cache/prod/
+ 1291  openssl version -a
+ 1292  sudo chmod -R 775 /var/www/var/cache/
+ 1293  sudo systemctl restart php8.1-fpm
+ 1294  sudo systemctl restart nginx
+ 1295  sudo chmod -R 775 /var/www/var/cache/
+ 1296  openssl genpkey -algorithm RSA -out /var/www/var/cache/saml_default.key -pkeyopt rsa_keygen_bits:2048
+ 1297  openssl req -new -x509 -key /var/www/var/cache/saml_default.key -out /var/www/var/cache/saml_default.crt -days 365 -subj "/CN=mautic-saml"
+ 1298  sudo chown www-data:www-data /var/www/var/cache/saml_default.key /var/www/var/cache/saml_default.crt
+ 1299  sudo chmod 600 /var/www/var/cache/saml_default.key
+ 1300  sudo systemctl restart nginx
+ 1301  sudo systemctl restart php8.1-fpm
+ 1302  sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+ 1303  sudo systemctl restart mysql
+ 1304  clear
+ 1305  pm2 restart 0
+ 1306  pm2 logs
+ 1307  pm2 restart 0
+ 1308  pm2 logs
+ 1309  pm2 restart 0
+ 1310  pm2 logs
+ 1311  pm2 restart 0
+ 1312  pm2 logs
+ 1313  pm2 restart 0
+ 1314  pm2 logs
+ 1315  pm2 restart 0
+ 1316  clear
+ 1317  pm2 logs
+ 1318  clear
+ 1319  pm2 restart 0
+ 1320  pm2 logs
+ 1321  pm2 restart 0
+ 1322  pm2 logs
+ 1323  pm2 restart 0
+ 1324  pm2 logs
+ 1325  pm2 restart 0
+ 1326  pm2 logs
+ 1327  clear
+ 1328  pm2 restart 0
+ 1329  pm2 logs
+ 1330  pm2 restart 0
+ 1331  pm2 logs
+ 1332  pm2 restart 0
+ 1333  pm2 logs
+ 1334  pm2 restart 0
+ 1335  pm2 logs
+ 1336  pm2 restart 0
+ 1337  pm2 logs
+ 1338  pm2 restart 0
+ 1339  pm2 logs
+ 1340  pm2 restart 0
+ 1341  pm2 logs
+ 1342  pm2 restart 0
+ 1343  pm2 logs
+ 1344  pm2 restart 0
+ 1345  pm2 logs
+ 1346  clear
+ 1347  pm2 restart 0
+ 1348  clear
+ 1349  pm2 logs
+ 1350  pm2 restart 0
+ 1351  pm2 logs
+ 1352  clear
+ 1353  pm2 restart 0
+ 1354  pm2 logs
+ 1355  pm2 restart 0
+ 1356  pm2 logs
+ 1357  pm2 restart 0
+ 1358  pm2 logs
+ 1359  pm2 restart 0
+ 1360  clear
+ 1361  pm2 logs
+ 1362  pm2 restart 0
+ 1363  clear
+ 1364  pm2 logs
+ 1365  clear
+ 1366  pm2 restart 0
+ 1367  pm2 logs
+ 1368  pm2 restart 0
+ 1369  pm2 logs
+ 1370  pm2 restart 0
+ 1371  pm2 logs
+ 1372  pm2 restart 0
+ 1373  pm2 logs
+ 1374  pm2 restart 0
+ 1375  pm2 logs
+ 1376  pm2 restart 0
+ 1377  pm2 logs
+ 1378  pm2 restart 0
+ 1379  pm2 logs
+ 1380  pm2 restart 0
+ 1381  pm2 logs
+ 1382  pm2 restart 0
+ 1383  pm2 logs
+ 1384  pm2 restart 0
+ 1385  pm2 logs
+ 1386  pm2 restart 0
+ 1387  pm2 logs
+ 1388  pm2 restart 0
+ 1389  pm2 logs
+ 1390  pm2 restart 0
+ 1391  pm2 logs
+ 1392  pm2 restart 0
+ 1393  pm2 logs
+ 1394  pm2 restart 0
+ 1395  pm2 logs
+ 1396  clear
+ 1397  pm2 restart 0
+ 1398  pm2 logs
+ 1399  pm2 restart 0
+ 1400  pm2 logs
+ 1401  clear
+ 1402  pm2 restart 0
+ 1403  pm2 logs
+ 1404  pm2 restart 0
+ 1405  pm2 logs
+ 1406  pm2 restart 0
+ 1407  pm2 logs
+ 1408  pm2 restart 0
+ 1409  pm2 logs
+ 1410  sudo systemctl restart nginx
+ 1411  sudo systemctl restart php-fpm8.1
+ 1412  sudo systemctl restart php8.1-fpm
+ 1413  pm2 restart 0
+ 1414  pm2 logs
+ 1415  clear
+ 1416  pm2 restart 0
+ 1417  pm2 logs
+ 1418  pm2 restart 0
+ 1419  crontab -l
+ 1420  mautic:cache:clear
+ 1421  ./console mautic:cache:clear
+ 1422  sudo systemctl restart php8.1-fpm
+ 1423  sudo chmod -R 775 /logs
+ 1424  sudo chmod -R 775 ./logs
+ 1425  sudo chmod -R 775 /var/www/var/logs
+ 1426  sudo sytemctl restart nginx
+ 1427  sudo systemctl restart nginx
+ 1428  sudo sytemctl restart nginx
+ 1429  sudo systemctl restart nginx
+ 1430  cd www
+ 1431  ls
+ 1432  sudo chmod -R 775 
+ 1433  sudo chmod -R 775 ./
+ 1434  pm2 restart 0
+ 1435  sudo chmod -R 775 ./
+ 1436  sudo systenctl restart php8.1-fpm
+ 1437  sudo systemctl restart php8.1-fpm
+ 1438  sudo systemctl restart nginx
+ 1439  sudo chmod -R 775 ./
+ 1440  ./console mautic cache:clear
+ 1441  ./console mautic:cache:clear
+ 1442  php bin/console cache:clear
+ 1443  php b.console cache:clear
+ 1444  php console cache:clear
+ 1445  php console cache:warmup
+ 1446  php console mautic:update:apply --force
+ 1447  php console mautic:update:apply --finish
+ 1448  php -r 'echo password_hash("?Bilalkazmi711", PASSWORD_BCRYPT) . PHP_EOL;'
+ 1449  pm2 restart 0
+ 1450  ls
+ 1451  cd ..
+ 1452  sudo chmod -R 775 ./config
+ 1453  sudo chmod -R 775 config
+ 1454  php bin/console mautic:cache:clear 
+ 1455  mysql -u root 
+ 1456  cat ~/.my.cnf
+ 1457  cat /etc/mysql/my.cnf
+ 1458  cat /etc/mysql/my.ini
+ 1459  php bin/console mautic:cache:clear 
+ 1460  sudo chmod -R 775 config
+ 1461  sudo chmod -R 775 .
+ 1462  php bin/console mautic:cache:clear 
+ 1463  php bin/console mautic:cache:warmup
+ 1464  sudo systemctl restart php8.1-fpm
+ 1465  php bin/console mautic:cache:clear env=prod
+ 1466  php bin/console mautic:cache:clear 
+ 1467  sudo systemctl restart php8.1-fp
+ 1468  php bin/console mautic:assets:generate
+ 1469  sudo php bin/console mautic:cache:clear
+ 1470  php bin/console cache:warmup
+ 1471  php bin/console cache:clear
+ 1472  sudo chmod -R 775 ./config/local.php
+ 1473  php bin/console cache:clear
+ 1474  sudo chmod -R 775 ./config/local.php
+ 1475  sudo chmod -R 775 /config/local.php
+ 1476  sudo chmod -R 775 www/config/local.php
+ 1477  sudo chmod -R 775 config/local.php
+ 1478  php bin/console cache:clear
+ 1479  clear
+ 1480  sudo chown www-data:www-data local.php
+ 1481  cd config
+ 1482  sudo chown www-data:www-data local.php
+ 1483  sudo chmod www-data:www-data -R 775 www/config/local.php
+ 1484  sudo chown www-data:www-data -R 775 www/config/local.php
+ 1485  cd ..
+ 1486  sudo chown -R www-data:www-data
+ 1487  sudo chown -R www-data:www-data ./
+ 1488  cls
+ 1489  clear
+ 1490  pm2 logs
+ 1491  sudo chmod -R 775 ./logs
+ 1492  sudo chmod -R 775 ./
+ 1493  sudo systemctl php8.1-fpm
+ 1494  sudo systemctl restart php8.1-fpm
+ 1495  mysql --version
+ 1496  sudo systemctl restart php8.1-fpm
+ 1497  cd ..
+ 1498  cd www
+ 1499  unzip mautic.zip -d .
+ 1500  chmod -R 755 .
+ 1501  unzip mautic.zip -d .
+ 1502  chmod -R 755 .
+ 1503  ls
+ 1504  cd var
+ 1505  ls
+ 1506  cd logs
+ 1507  ls
+ 1508  nano mautic_prod-2025-02-13.php
+ 1509  cd ..
+ 1510  php app/console cache:clear --env=prod
+ 1511  php bin/console cache:clear --env=prod
+ 1512  pm2 restart 0
+ 1513  chmod -R 755 .
+ 1514  sudo chown -R www-data:www-data ./
+ 1515  pm2 restart 0
+ 1516  sudo chown -R www-data:www-data ./
+ 1517  pm2 logs
+ 1518  clear
+ 1519  pm2 restart 0
+ 1520  pm2 logs
+ 1521  pm2 restart 0
+ 1522  pm2 logs
+ 1523  pm2 restart 0
+ 1524  pm2 logs
+ 1525  pm2 restart 0
+ 1526  pm2 logs
+ 1527  pm2 restart 0
+ 1528  sudo chown -R www-data:www-data ./
+ 1529  crontab -l
+ 1530  crontab -e
+ 1531  crontab -l
+ 1532  pm2 logs
+ 1533  pm2 restart 0
+ 1534  pm2 logs
+ 1535  pm2 restart 0
+ 1536  pm2 logs
+ 1537  pm2 restart 0
+ 1538  pm2 logs
+ 1539  pm2 restart 0
+ 1540  pm2 logs
+ 1541  pm2 restart 0
+ 1542  pm2 logs
+ 1543  clear
+ 1544  pm2 restart 0
+ 1545  pm2 logs
+ 1546  pm2 restart 0
+ 1547  pm2 logs
+ 1548  pm2 restart 0
+ 1549  pm2 logs
+ 1550  pm2 restart 0
+ 1551  cd /var/www/var/logs
+ 1552  crontab -e
+ 1553  crontab -l
+ 1554  sudo chmod -R 775 ./
+ 1555  sudo chown -R www-data:www-data ./
+ 1556  cd /var/www/var/logs
+ 1557  pm2 logs
+ 1558  clear
+ 1559  pm2 restart 0
+ 1560  clear
+ 1561  pm2 logs
+ 1562  clear
+ 1563  pm2 restart 0
+ 1564  clear
+ 1565  pm2 logs
+ 1566  clear
+ 1567  pm2 restart 0
+ 1568  clear
+ 1569  pm2 logs
+ 1570  clear
+ 1571  pm2 restart 0
+ 1572  pm2 logs
+ 1573  clear
+ 1574  pm2 restart 0
+ 1575  pm2 logs
+ 1576  clear
+ 1577  pm2 restart 0
+ 1578  pm2 logs
+ 1579  clear
+ 1580  pm2 restart 0
+ 1581  sudo chown -R www-data:www-data ./
+ 1582  sudo nano /etc/nginx/sites-available/atlas.joadesigns.co.uk
+ 1583  mkdir -p /var/www/atlas.joadesigns.co.uk
+ 1584  sudo ln -s /etc/nginx/sites-available/atlas.joadesigns.co.uk /etc/nginx/sites-enabled/
+ 1585  sudo nginx -t
+ 1586  sudo systemctl restart nginx
+ 1587  python3 "" "suppliers" "bathroom equipment"t
+ 1588  python3 scraper.py "" "suppliers" "bathroom equipment"t
+ 1589  python3 scraper.py "" "suppliers" "bathroom equipment"
+ 1590  /usr/bin/python3
+ 1591  pm2 logs
+ 1592  clear
+ 1593  pm2 logs
+ 1594  CLEAR
+ 1595  clear
+ 1596  pm2 restart 0
+ 1597  pm2 logs
+ 1598  python3 scraper.py "" "suppliers" "bathroom equipment"
+ 1599  pm2 logs
+ 1600  pm2 restart 0
+ 1601  pm2 logs
+ 1602  clear
+ 1603  pm2 restart 0
+ 1604  pm2 logs
+ 1605  pm2 restart 0
+ 1606  pm2 logs
+ 1607  clear
+ 1608  pm2 restart 0
+ 1609  clear
+ 1610  pm2 logs
+ 1611  free
+ 1612  top
+ 1613  /usr/bin/python3
+ 1614  sudo chown -R www-data:www-data ./
+ 1615  sudo apt install sysstat
+ 1616  sudo nano /etc/default/sysstat
+ 1617  sar -r 1 15
+ 1618  top
+ 1619  npm i moment
+ 1620  sudo chown -R www-data:www-data ./
+ 1621  pm2 restart 0
+ 1622  pm2 llogs
+ 1623  pm2 logs
+ 1624  pm2 restart 0
+ 1625  pm2 logs
+ 1626  pm2 restart 0
+ 1627  pm2 logs
+ 1628  clear
+ 1629  pm2 restart0
+ 1630  pm2 restart 0
+ 1631  clear
+ 1632  pm2 logs
+ 1633  pm2 restart 0
+ 1634  clear
+ 1635  pm2 logs
+ 1636  clear
+ 1637  pm2 restart 0
+ 1638  pm2 logs
+ 1639  pm2 restart 0
+ 1640  pm2 logs
+ 1641  pm2 restart 0
+ 1642  pm2 logs
+ 1643  pm2 restart 0
+ 1644  pm2 logs
+ 1645  pm2 restart 0
+ 1646  sudo chown -R www-data:www-data ./
+ 1647  pm2 logs
+ 1648  top -b -n 1 | grep \"Cpu(s)\" | sed \"s/.*, *\\([0-9.]*\\)%* id.*/\\1/\" | awk '{print 100 - $1 \"%\"}'
+ 1649  pm2 restart 0
+ 1650  pm2 logs
+ 1651  pm2 restart 0
+ 1652  pm2 logs
+ 1653  sudo chown -R www-data:www-data ./
+ 1654  top -b -n 1 | head -n 12 | tail -n 1 | awk '{print $12}'
+ 1655  top
+ 1656  top -b
+ 1657  pm2 restart 0
+ 1658  pm2 logs
+ 1659  pm2 restart 0
+ 1660  pm2 logs
+ 1661  pm2 restart 0
+ 1662  pm2 logs
+ 1663  pm2 restart 0
+ 1664  pm2 logs
+ 1665  sudo chown -R www-data:www-data ./
+ 1666  pm2 restart 0
+ 1667  pm2 logs
+ 1668  clear
+ 1669  pm2 restart 0
+ 1670  pm2 logs
+ 1671  pm2 restart 0
+ 1672  pm2 logs
+ 1673  pm2 restart 0
+ 1674  pm2 logs
+ 1675  pm2 restart 0
+ 1676  pm2 logs
+ 1677  pm2 restart 0
+ 1678  pm2 logs
+ 1679  pm2 restart 0
+ 1680  pm2 logs
+ 1681  pm2 restart 0
+ 1682  pm2 logs
+ 1683  pm2 restart 0
+ 1684  pm2 logs
+ 1685  pm2 restart 0
+ 1686  pm2 logs
+ 1687  pm2 restart 0
+ 1688  pm2 logs
+ 1689  pm2 restart 0
+ 1690  clear
+ 1691  pm2 logs
+ 1692  clear
+ 1693  pm2 restart 0
+ 1694  pm2 logs
+ 1695  pm2 restart 0
+ 1696  pm2 logs
+ 1697  clear
+ 1698  pm2 restart 0
+ 1699  pm2 logs
+ 1700  pm2 restart 0
+ 1701  pm2 logs
+ 1702  pm2 restart 0
+ 1703  pm2 logs
+ 1704  pm2 restart 0
+ 1705  clear
+ 1706  pm2 logs
+ 1707  pm2 restart 0
+ 1708  pm2 logs
+ 1709  pm2 restart 0
+ 1710  pm2 logs
+ 1711  pm2 restart 0
+ 1712  pm2 logs
+ 1713  pm2 restart 0
+ 1714  pm2 logs
+ 1715  sudo chown -R www-data:www-data ./
+ 1716  pm2 restart 0
+ 1717  pm2 logs
+ 1718  pm2 restart 0
+ 1719  clear
+ 1720  pm2 logs
+ 1721  crontab -3
+ 1722  crontab -e
+ 1723  pm2 restart 0
+ 1724  pm2 logs
+ 1725  sudo chown -R www-data:www-data ./
+ 1726  cd ..
+ 1727  sudo chown -R www-data:www-data ./logs
+ 1728  sudo chmod -R 775 ./logs
+ 1729  setfacl -d -m u:www-data:rwx ./logs
+ 1730  ap install acl
+ 1731  sudo apt install acl
+ 1732  setfacl -d -m u:www-data:rwx ./logs
+ 1733  crontab -e
+ 1734  npm run dev
+ 1735  npm start
+ 1736  npm run start
+ 1737  npm run build
+ 1738  history
+ 1739  pm2 restart 0
+ 1740  pm2 logs
+ 1741  sudo systemctl restart php8.1-fpm
+ 1742  pm2 restart 0
+ 1743  sudo systemctl restart nginx
+ 1744  sudo systemctl stqtus nginx
+ 1745  sudo systemctl status nginx
+ 1746  cat ~/.bash_history
+ 1747  cleqr
+ 1748  clear
+ 1749  cat ~/.bash_history
+ 1750  cd etc
+ 1751  cd nginx
+ 1752  cd sites-available
+ 1753  nano default
+ 1754  curl -X POST http://localhost:5640/auth/signup -H "Content-Type: application/json" -d '{
+ 1755    "email": "john@joaautomation.com",
+ 1756    "username": "john",
+ 1757    "firstName": "John",
+ 1758    "lastName": "Doe",
+ 1759    "password": "abcd1234"
+ 1760  }'
+ 1761  nano default
+ 1762  docker ps
+ 1763  ollama status
+ 1764  sudo ss -tuln | grep 3000
+ 1765  sudo ss -tuln | grep %^$)
+ 1766  sudo ss -tuln | grep 5640
+ 1767  sudo ufw status
+ 1768  sudo service php8.1-fpm restart
+ 1769  sudo service php100.1-fpm restart
+ 1770  nano default
+ 1771  sudo systemctl restart php8.1-fpm
+ 1772  sudo journqlctl php8.1-fpm
+ 1773  sudo journalctl php8.1-fpm
+ 1774  tail -f /var/log/nginx/error.log
+ 1775  cd /root/joa-automation-tools/joa-automation-tools
+ 1776  cd src
+ 1777  pm2 index.js
+ 1778  pm2 start index.js
+ 1779  cd <<
+ 1780  cd ..
+ 1781  cd automation-tools-webapp
+ 1782  npm run build
+ 1783  htop
+ 1784  npm run build
+ 1785  htop
+ 1786  top
+ 1787  curl ifconfig<;e
+ 1788  curl ifconfig.me
+ 1789  top
+ 1790  ./console cache:clear
+ 1791  pm2 start index.js
+ 1792  pm2 logs
+ 1793  crontab -e
+ 1794  pm2 start index.js
+ 1795  pm2 restart 0
+ 1796  pm2 remove 1
+ 1797  pm2 stop 1
+ 1798  pm2 restart 0
+ 1799  pm2 list
+ 1800  pm2 logs
+ 1801  pm2 stop 0
+ 1802  cd /root/joa-automation-tools/automation-tools-webapp
+ 1803  npm run build
+ 1804  pm2 restart 0
+ 1805  netstat -tulnp
+ 1806  ss -tulnp
+ 1807  sudo nano /etc/nginx/sites-available/mautic
+ 1808  sudo systemctl status php8.1-fpm
+ 1809  sudo ss -tuln | grep 6673
+ 1810  sudo aa-status
+ 1811  sudo systemctl status redis
+ 1812  python3 scraper.py "UK" "professionals" "architectural glass design"
+ 1813  cd /root/joa-automation-tools/automation-api/python-scrapper
+ 1814  python3 scraper.py "UK" "professionals" "architectural glass design"
+ 1815  pm2 logs
+ 1816  pm2 restart 0
+ 1817  sudo systemctl restart php8.1-fpm
+ 1818  sudo systemctl stqtus php8.1-fpm
+ 1819  sudo systemctl status php8.1-fpm
+ 1820  crontab -e
+ 1821  pm2 logs
+ 1822  crontab -e
+ 1823  sudo systemctl status cron
+ 1824  crontab -e
+ 1825  pm2 logs
+ 1826  sudo systemctl restart php8.1-fpm
+ 1827  crontab -l
+ 1828  cd /www/bin
+ 1829  cd /var/www/bin
+ 1830  php bin/console
+ 1831  php console
+ 1832  php bin/console mautic:messages:consume
+ 1833  cd ..
+ 1834  php bin/console mautic:messages:consume
+ 1835  php bin/console mautic:queue:process
+ 1836  php bin/console mautic:messages:consume
+ 1837  cat /var/www/var/logs
+ 1838  cd /var/www/var/logs
+ 1839  ll
+ 1840  code mautic_prod-2025-03-10.php
+ 1841  npm start
+ 1842  cd /joa.automation-tools
+ 1843  cd joa.automation-tools
+ 1844  cd ..
+ 1845  cd /joa.automation-tools
+ 1846  cd ..
+ 1847  cd /joa-automation-tools
+ 1848  cd /automation-api
+ 1849  cd authomation-api
+ 1850  cd ../
+ 1851  cd joa-automation-tools
+ 1852  cd /root/
+ 1853  ls
+ 1854  ls -a
+ 1855  cd /joa-automation-tools
+ 1856  cd joa-automation-tools
+ 1857  ls
+ 1858  cd automation-api/
+ 1859  ls
+ 1860  cd joa-automation-tools/
+ 1861  ls
+ 1862  npm start
+ 1863  sudo lsof -i :5640
+ 1864  npm start
+ 1865  sudo lsof -i :5640
+ 1866  php bin/console mautic:messages:consume
+ 1867  php bin/console mautic:queue:process
+ 1868  cls
+ 1869  cd php
+ 1870  cd /var/www/var/logs
+ 1871  code cd /var/www/var/logs
+ 1872  cd usr/bi
+ 1873  cd usr/bin
+ 1874  cls
+ 1875  cd ..
+ 1876  cd .
+ 1877  cd ..
+ 1878  cd..
+ 1879  cd ..
+ 1880  cd console
+ 1881  cd /console
+ 1882  cd /usr/bin
+ 1883  cd /php
+ 1884  cd /usr/bin/php
+ 1885  cd /var/www/bin
+ 1886  cd /console
+ 1887  /var/www/bin/console
+ 1888  php bin/console
+ 1889  php bin/console mautic:messages:consume
+ 1890  php bin/console cache:clear
+ 1891  php bin/console mautic:about
+ 1892  cd bin/console
+ 1893  cd /bin/console
+ 1894  cd /usr/bin/php /var/www/bin/console
+ 1895  cd /var/www/bin/console
+ 1896  cd /bin/console
+ 1897  /var/www/bin/console
+ 1898  php bin/console list | grep mautic
+ 1899  php bin/console mautic:messages:consume
+ 1900  cd .
+ 1901  php bin/console mautic:messages:consume
+ 1902  cd .
+ 1903  cd ..
+ 1904  php bin/console mautic:messages:consume
+ 1905  php bin/console mautic:queue:process
+ 1906  php bin/console debug:container | grep queue
+ 1907  php bin/console cache:clear
+ 1908  php bin/console mautic:about
+ 1909  php bin/console list | grep mautic
+ 1910  php bin/console mautic:queue:process
+ 1911  php bin/console debug:container | grep queue
+ 1912  php bin/console cache:clear
+ 1913  php /path/to/mautic/bin/console mautic:queue:process
+ 1914  /bin/console mautic:queue:process
+ 1915  /console mautic:queue:process
+ 1916  crontab -l
+ 1917  php /var/www/mautic/bin/console mautic:campaigns:trigger
+ 1918  php /var/www/mautic/bin/console mautic:email:send
+ 1919  php /var/www/mautic/bin/console mautic:campaigns:trigger
+ 1920  console mautic:campaigns:trigger
+ 1921  cd /var/www/mautic
+ 1922  cd var/www/mautic
+ 1923  cd www/mautic
+ 1924  cd /www/mautic
+ 1925  /var/www/bin/console mautic:campaigns:trigger
+ 1926  Give me the list of the new corn jobs now on the server
+ 1927  */5 * * * * /usr/bin/php /var/www/html/bin/console mautic:campaigns:trigger >/dev/null 2>&1
+ 1928  /var/www/html/bin/console mautic:campaigns:trigger
+ 1929  /var/www/bin/console mautic:campaigns:trigger
+ 1930  crontab -l
+ 1931  bin/console messenger:consume email
+ 1932  ll
+ 1933  ls bin
+ 1934  bin/console messenger:consume email
+ 1935  messenger:consume email --time-limit=50
+ 1936  bin/console messenger:consume email --time-limit=50
+ 1937  bin/console messenger:consume email
+ 1938  /5 * * * cd /var/www/var && php bin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1939  cd /var/www/var && php bin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1940  bin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1941  messenger:consume email --time-limit=50
+ 1942  bin/console messenger:consume emailbin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1943  bin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1944  bash: bin/console: No such file or directory
+ 1945  root@vmi1492477:/var/www/var#  messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1946  messenger:consume: command not found
+ 1947  root@vmi1492477:/var/www/var# ls -la
+ 1948  ls -la
+ 1949  php bin/console --version
+ 1950  composer show symfony/messenger
+ 1951  bin/console messenger:consume email
+ 1952  messenger:consume email --time-limit=50
+ 1953  bin/console messenger:consume email
+ 1954  cd ..
+ 1955  bin/console messenger:consume email --limit=100 --time-limit=270 --memory-limit=128M --quiet
+ 1956  top
+ 1957  ls
+ 1958  cd joa-automation-tools/
+ 1959  ls
+ 1960  cd automation-api/
+ 1961  ls
+ 1962  joa-automation-tools/
+ 1963  cd joa-automation-tools/
+ 1964  ls
+ 1965  npm start
+ 1966  sudo lsof -i :5640
+ 1967  sudo kill -9 <PID>
+ 1968  sudo kill -9
+ 1969  sudo lsof -i :5640
+ 1970  npm start
+ 1971  sudo reboot
+ 1972  ls
+ 1973  cd joa-automation-tools/
+ 1974  ls
+ 1975  cd automation-api/
+ 1976  ls
+ 1977  cd joa-automation-tools/
+ 1978  ls
+ 1979  npm start
+ 1980  top
+ 1981  cd ..
+ 1982  cd..
+ 1983  cd ..
+ 1984  pm2 logs
+ 1985  pm2 restart
+ 1986  pm2 list
+ 1987  npm start
+ 1988  top
+ 1989  pm2 restart
+ 1990  cls
+ 1991  pm2 list
+ 1992  pm2 logs
+ 1993  ls
+ 1994  top
+ 1995  ls
+ 1996  cls
+ 1997  node index.js
+ 1998  cls
+ 1999  ls
+ 2000  cd joa-automation-tools/
+ 2001  ls
+ 2002  cd automation-api/
+ 2003  ls
+ 2004  cd joa-automation-tools/
+ 2005  ls
+ 2006  node index.js
+ 2007  ls
+ 2008  cd src/
+ 2009  node index.js
+ 2010  history > tmp.txt

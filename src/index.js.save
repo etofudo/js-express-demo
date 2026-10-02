@@ -1,0 +1,61 @@
+require("dotenv").config();
+const express = require("express");
+const cors = require("cors");
+const leadsRouter = require("./routes/leads");
+const scrapeRouter = require("./routes/scrape");
+const authRouter = require("./routes/auth");
+const http = require("http");
+const WebSocket = require("ws");
+const sequelize = require("./database");
+const { Type } = require("./models/types.model");
+const { Section } = require("./models/sections.model");
+const { Leads } = require("./models/leads.model");
+const { User } = require("./models/user.model");
+
+const app = express();
+
+const server = http.createServer(app);
+
+const wss = new WebSocket.Server({ server });
+
+wss.on("connection", (ws) => {
+  ws.on("message", (message) => {
+    console.log("Received message from client:", message);
+
+    // wss.clients.forEach((client) => {
+    //   if (client.readyState === WebSocket.OPEN) {
+    //     client.send(`Broadcast: ${message}`);
+    //   }
+    // });
+  });
+
+  ws.on("close", () => {
+    console.log("WebSocket client disconnected");
+  });
+});
+
+app.use(cors());
+app.use(express.json());
+app.use((req, res, next) => {
+  req.wss = wss;
+  next();
+});
+
+app.use(authRouter);
+app.use(leadsRouter);
+app.use(scrapeRouter);
+
+<<<<<<< HEAD
+server.listen(5640, () => {
+  sequelize.sync({ alter: true });
+=======
+server.listen(3000, () => {
+  sequelize.sync({ alter: true, force: true })
+  .then(async ()=> {
+      await Type.sync(); 
+      await Section.sync();
+      await Leads.sync();
+      await User.sync();
+  })
+>>>>>>> 14614cf7920f0a9454cdb97b7654769986451804  console.log("REST API and WebSocket server started on port 3000");
+});
